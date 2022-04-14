@@ -1,0 +1,5 @@
+- 👋 Feel very welcome to this humble space!
+- 👀 Just looking forward to try by myself different technologies. This will be the main source of registration for them.
+- 🌱 At this moment investing time on AWS and its possibilities with web hosting and application development.
+- 💞️ Any collaboration offer will be well received and appreciated! Just contact with me.
+- 📫 Just drop an email! I will answer as soon as possible.
